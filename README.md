@@ -14,3 +14,7 @@ On Mac: [hit Cmd + Shift + .]
 
 
 caution: Windows 11 apparently creates an extra folder with the theme name when you unzip. Just make sure the theme.css and manifest.json are directly in the folder with the theme name and that folder is directly in "themes". As in: themes/theme-name/css+json instead of themes/theme-name/theme-name/css+json
+
+
+# Important:
+None of this is for-profit in any way. All my themes are made and shared purely for enjoyment.
